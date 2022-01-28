@@ -4,3 +4,5 @@ var motherName = 'Morium';
 var fatherName = 'Iqbal hosain'
 console.log(fullName +' '+ age +' '+ motherName +' '+ fatherName)
 var pass = true
+
+
