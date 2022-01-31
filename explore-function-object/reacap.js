@@ -17,7 +17,13 @@ console.log(bookList);
 bookList.shift();
 console.log(bookList);
 
-// 3. loop
+// 3. conditional
+if(bookList[1] == 'ict'){
+    console.log('Amake ict Book Dew');
+}else{
+    console.log('Amake ict book diyo na');
+};
+// 4. loop
 
 // while loop
 var i = 0;
