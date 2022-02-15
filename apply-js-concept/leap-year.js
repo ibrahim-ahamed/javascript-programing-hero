@@ -6,5 +6,5 @@ function leapIsYear(year){
         console.log(year + ' is not leap year');
     }
 }
-const myYear = 3486;
+const myYear = 2028;
 leapIsYear(myYear)
